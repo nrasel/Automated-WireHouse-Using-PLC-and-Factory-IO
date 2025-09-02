@@ -63,7 +63,7 @@ Clone the repository:
      git clone https://github.com/yourusername/Automated-Warehouse-Using-PLC.git
      cd Automated-Warehouse-Using-PLC
 
-## 📷 Project View
+## 📷 Project Architecture
 ![Automated WareHouse](https://github.com/nrasel/Automated-WireHouse-Using-PLC-and-Factory-IO/blob/47da809f59122e3a4172d0c54128a32166964209/FlowChart%20of%20this%20Project.PNG)
 
 
